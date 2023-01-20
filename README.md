@@ -1,5 +1,6 @@
 # Taller12
-
+Ruben Condoy
+Mariangel Rojas
 ## Problemáticas
 
 #### Fin respuesta
